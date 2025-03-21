@@ -4,6 +4,11 @@
 
 ---
 ## 🎬 Chương trình ứng dụng và kiểm thử
+![Demo GIF](images/demo.gif)
+
+---
+
+##  🎬 Xem tại Youtube
 [![Demo Video](https://img.youtube.com/vi/cNMM3-NPei0/0.jpg)](https://youtube.com/shorts/cNMM3-NPei0)
 
 ---
