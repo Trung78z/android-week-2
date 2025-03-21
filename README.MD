@@ -69,5 +69,5 @@ Màn hình hiển thị **nghiệm của phương trình** sau khi tính toán:
 
 ---
 
-## 📩 9. Liên hệ
+## 📩 8. Liên hệ
 Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ qua email: `trungpspy@gmail.com`.
