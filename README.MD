@@ -74,4 +74,4 @@ Màn hình hiển thị **nghiệm của phương trình** sau khi tính toán:
 ---
 
 ## 📩 8. Liên hệ
-Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ qua email: `trungpspy@gmail.com`.
+Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ qua email: `quanh.0807@gmail.com` & `trungpspy@gmail.com`.
