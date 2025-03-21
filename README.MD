@@ -4,7 +4,6 @@
 
 ---
 ## 🎬 Chương trình ứng dụng và kiểm thử
-![Demo GIF](images/demo.gif)
 <img src="images/demo.gif" width="200" alt="Demo GIF">
 ---
 
